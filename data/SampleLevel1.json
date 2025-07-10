@@ -1,12 +1,12 @@
 {
-    "id": 57436521,
-    "name": "SampleLevel1",
-    "author": "LevelUploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": 56,
-    "password": "Not Copyable",
+    "id": 121389047,
+    "name": "Snacki popcornowe",
+    "author": "Mix3rrr",
+    "creators": ["Mix3rrr", "Mix3rrr", "Mix3rrr"],
+    "verifier": "Mix3rrr",
+    "verification": "https://www.youtube.com/watch?v=D4vGF5DZ8BM",
+    "percentToQualify": 100,
+    "password": "Not needed",
     "records": [
         {
             "user": "Sample_Victor_1",
